@@ -57,4 +57,10 @@ For example:
 ['shells', 'gorgonzola', 'parsley']
 
 
+API
+===
 
+.. autosummary::
+   :toctree: generated
+
+   lumache
